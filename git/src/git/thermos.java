@@ -15,4 +15,8 @@ public class thermos {
 		return brand;
 	}
 	
+	String getliquid() {
+		return liquid;
+	}
+	
 }
